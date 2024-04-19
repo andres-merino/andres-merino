@@ -2,11 +2,9 @@
 <h3 align="center">Matematico - Magister en Matemáticas Puras y Aplicadas - Master en Ciencia de Datos</h3>
 
 <div align='center'>
-<a href="https://github.com/andres-merino/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres-merino" alt="andres-merino" /></a>
-</div>  
-
-<div align='center'>
+  
 [![My github stats](https://github-readme-stats.vercel.app/api?username=andres-merino)](https://github.com/andres-merino/)
+
 </div>  
 
 ## Sobre mi
