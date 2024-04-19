@@ -1,4 +1,4 @@
-<h1 align="center">Andrés Merino [![LinkedIn][linkedin-shield]][linkedin-url-aemt]</h1>
+<h1 align="center">Andrés Merino</h1>
 <h3 align="center">Matematico - Magister en Matemáticas Puras y Aplicadas - Master en Ciencia de Datos</h3>
 
 <div align='center'>
@@ -7,11 +7,12 @@
 
 </div>  
 
-## Sobre mi
+## Sobre mi [![LinkedIn][linkedin-shield]][linkedin-url-aemt]
+
+He trabajado con:
 
 ![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) 
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge)
