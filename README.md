@@ -4,10 +4,10 @@
 <div align='center'>
   
 <a href="https://github.com/andres-merino/">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=andres-merino&hide=prs,issues&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=andres-merino&hide=prs,issues&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&rank_icon=github&card_width=380" />
 </a>
 <a href="https://github.com/andres-merino/">
-  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres-merino&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=320" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres-merino&layout=compact&langs_count=8&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&card_width=380" />
 </a>
 
 </div>  
@@ -43,6 +43,7 @@ He trabajado con:
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 
 </div>  
+
 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url-aemt]: https://www.linkedin.com/in/andrés-merino-010a9b12b/
