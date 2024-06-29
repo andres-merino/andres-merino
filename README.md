@@ -44,10 +44,5 @@ He trabajado con:
 
 </div>  
 
-### Proyectos Destacados
-
-- **[Nombre del Proyecto 1](enlace)**: Breve descripción.
-- **[Nombre del Proyecto 2](enlace)**: Breve descripción.
-
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url-aemt]: https://www.linkedin.com/in/andrés-merino-010a9b12b/
